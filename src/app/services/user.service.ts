@@ -10,9 +10,9 @@ export class UserService {
   private local= 'http://localhost:8080';
   private heroku= 'http://boiling-reef-62053.herokuapp.com';
 
-  private userUrl = this.heroku + '/api/test/user';
-  private pmUrl = this.heroku + '/api/test/pm';
-  private adminUrl =  this.heroku + '/api/test/admin';
+  private userUrl = 'http://boiling-reef-62053.herokuapp.com/api/test/user';
+  private pmUrl = 'http://boiling-reef-62053.herokuapp.com/api/test/pm';
+  private adminUrl =  'http://boiling-reef-62053.herokuapp.com/api/test/admin';
 
   constructor(private http: HttpClient) { }
 

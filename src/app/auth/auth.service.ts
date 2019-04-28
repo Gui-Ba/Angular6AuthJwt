@@ -18,8 +18,8 @@ export class AuthService {
   private local= 'http://localhost:8080';
   private heroku= 'http://boiling-reef-62053.herokuapp.com';
 
-  private loginUrl = this.heroku + '/api/auth/signin';
-  private signupUrl = this.heroku + '/api/auth/signup';
+  private loginUrl = 'http://boiling-reef-62053.herokuapp.com/api/auth/signin';
+  private signupUrl = 'http://boiling-reef-62053.herokuapp.com/api/auth/signup';
 
   constructor(private http: HttpClient) {
   }
