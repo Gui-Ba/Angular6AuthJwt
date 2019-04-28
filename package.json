@@ -9,6 +9,10 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "postinstall": "ng build",
+<<<<<<< HEAD
+=======
+    "deploy": "git push origin master && git push heroku master"
+>>>>>>> 164512d65ef245b1cc8b05c39ac7c73087b6ad52
   },
   "private": true,
   "dependencies": {
