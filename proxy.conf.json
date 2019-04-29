@@ -1,0 +1,9 @@
+{
+  "/api/*": {
+    "target": "https://boiling-reef-62053.herokuapp.com",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
+
+"start": "ng serve --proxy-config proxy.conf.json",

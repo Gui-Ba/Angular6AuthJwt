@@ -16,10 +16,10 @@ const httpOptions = {
 export class AuthService {
 
   private local= 'http://localhost:8080';
-  private heroku= 'http://boiling-reef-62053.herokuapp.com';
+  private heroku= 'https://boiling-reef-62053.herokuapp.com';
 
-  private loginUrl = 'http://boiling-reef-62053.herokuapp.com/api/auth/signin';
-  private signupUrl = 'http://boiling-reef-62053.herokuapp.com/api/auth/signup';
+  private loginUrl = 'https://boiling-reef-62053.herokuapp.com/api/auth/signin';
+  private signupUrl = 'https://boiling-reef-62053.herokuapp.com/api/auth/signup';
 
   constructor(private http: HttpClient) {
   }

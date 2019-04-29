@@ -8,11 +8,11 @@ import { Observable } from 'rxjs';
 export class UserService {
 
   private local= 'http://localhost:8080';
-  private heroku= 'http://boiling-reef-62053.herokuapp.com';
+  private heroku= 'https://boiling-reef-62053.herokuapp.com';
 
-  private userUrl = 'http://boiling-reef-62053.herokuapp.com/api/test/user';
-  private pmUrl = 'http://boiling-reef-62053.herokuapp.com/api/test/pm';
-  private adminUrl =  'http://boiling-reef-62053.herokuapp.com/api/test/admin';
+  private userUrl = 'https://boiling-reef-62053.herokuapp.com/api/test/user';
+  private pmUrl = 'https://boiling-reef-62053.herokuapp.com/api/test/pm';
+  private adminUrl =  'https://boiling-reef-62053.herokuapp.com/api/test/admin';
 
   constructor(private http: HttpClient) { }
 
