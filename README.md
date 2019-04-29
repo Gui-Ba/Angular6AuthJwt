@@ -26,3 +26,8 @@ Checking with requests via Postman
 ## CONTRIBUTORS
 
 Grokonez => https://grokonez.com/spring-framework/spring-security/angular-spring-boot-jwt-authentication-example-angular-6-spring-security-mysql-full-stack-part-2-build-backend
+
+![alt adduser](https://user-images.githubusercontent.com/43437042/56903694-12d6fd80-6a9d-11e9-999a-5300837075bd.JPG)
+![alt application properties](https://user-images.githubusercontent.com/43437042/56903695-12d6fd80-6a9d-11e9-85e2-858d24eff074.JPG)
+![alt db_roles](https://user-images.githubusercontent.com/43437042/56903696-12d6fd80-6a9d-11e9-96ee-42b2768eb55d.JPG)
+![alt oneOrigine](https://user-images.githubusercontent.com/43437042/56903698-12d6fd80-6a9d-11e9-9f47-23b5350c40a4.JPG)
