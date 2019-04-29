@@ -23,6 +23,6 @@ https://boiling-reef-62053.herokuapp.com/
 
 Checking with requests via Postman
 
-## CONTRIBUTING
+## CONTRIBUTORS
 
 Grokonez => https://grokonez.com/spring-framework/spring-security/angular-spring-boot-jwt-authentication-example-angular-6-spring-security-mysql-full-stack-part-2-build-backend
